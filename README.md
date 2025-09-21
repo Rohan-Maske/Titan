@@ -26,8 +26,8 @@ A secure desktop application for file encryption/decryption with collaboration f
 1. **Clone or download the application**
    ```bash
    # If using git
-   git clone <repository-url>
-   cd titan-encryption-tool
+   git clone https://github.com/Rohan-Maske/Titan.git
+   cd Titan
    ```
 
 2. **Install required dependencies**
